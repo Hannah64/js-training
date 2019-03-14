@@ -6,8 +6,8 @@
  * and in lowercase for the rest of the string
  *
  */
-
-
+const hi = 'hello';
+console.log(hi.toUpperCase[0]);
 //* Begin of tests
 const assert = require('assert')
 
